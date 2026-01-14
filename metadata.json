@@ -1,0 +1,7 @@
+{
+  "name": "Drive with Faisi",
+  "description": "A comprehensive ride-hailing platform featuring passenger bidding, real-time driver matching, and a robust admin dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
